@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "graphqlphotobook681ea1d4": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
